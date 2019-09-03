@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "394282981022",
+    "firebase_url": "https://kloud-chat-online.firebaseio.com",
+    "project_id": "kloud-chat-online",
+    "storage_bucket": "kloud-chat-online.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394282981022:android:57a75cc4be4978e4",
+        "android_client_info": {
+          "package_name": "br.com.kalffman.projetos.flutter.kloud_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394282981022-1vofnfu66cue0klvu07v06r8un0litrr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.kalffman.projetos.flutter.kloud_chat",
+            "certificate_hash": "7f69c0b61508b1df05f8488899ab552b1b8df82d"
+          }
+        },
+        {
+          "client_id": "394282981022-r8p9vuc5biaq61d24qrpehep629p5pcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9yA9p5iaiCPDyDf-y7yrQxH3IqtcMauI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394282981022-r8p9vuc5biaq61d24qrpehep629p5pcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
